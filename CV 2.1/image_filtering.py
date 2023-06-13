@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-image = cv.imread('image.jpg')
+image = cv.imread('test.jpg')
 cv.imshow('Original', image)
 
 # Identity
